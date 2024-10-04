@@ -18,5 +18,5 @@ This program captures webcam video and uses Mediapipe to detect face mesh and ha
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Supankan/HandPainter-Using-MediaPipe.git
+   cd HandPainter-Using-MediaPipe
